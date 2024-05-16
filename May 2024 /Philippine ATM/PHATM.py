@@ -1,21 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 balance = 2000
-
-
-# In[2]:
-
 
 def check_balance():
     print("Your current balance is: PHP " + str(balance))
-
-
-# In[4]:
-
 
 def withdraw(amount):
     global balance
@@ -25,18 +11,10 @@ def withdraw(amount):
         balance -= amount
         print("Withdraw successful. Your current balance is: PHP " + str(balance))
 
-
-# In[6]:
-
-
 def deposit(amount):
     global balance
     balance += amount
     print("Deposit successful. Your current balance is: PHP " + str(balance))
-
-
-# In[7]:
-
 
 def main():
     while True:
@@ -62,16 +40,5 @@ def main():
         else:
             print("Invalid choice. Please try again.")
 
-
-# In[9]:
-
-
 if __name__ == "__main__":
     main()
-
-
-# In[ ]:
-
-
-
-
