@@ -6,7 +6,7 @@ This is not fully polished as a standard full-functioning Philippine ATM since i
 
 As seen from the two files, my platform to complete this very mini project was Jupyter, but for a much efficient access of using my code in Github, I converted it to Python.
 
-The reason why I use Jupyter was normally, I utilized this platform for data visualization and analysis. There are no other platforms I use at that time other than this.
+The reason why I use Jupyter was normally, I utilized this platform when practicing data visualization and analysis. There are no other platforms I use at that time other than this.
 
 ---
 
