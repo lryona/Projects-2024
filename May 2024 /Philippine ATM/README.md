@@ -10,7 +10,7 @@ The reason why I use Jupyter was normally, I utilized this platform for data vis
 
 ---
 
-# for a much in-depth comprehension for my code:
+### for a much in-depth comprehension for my code:
 
 I started defining its term functions used to withdraw, deposit, and check the user's balance. I do not need to class these defining variables since it will be unnecessary knowing my procedure will not be that huge.
 
