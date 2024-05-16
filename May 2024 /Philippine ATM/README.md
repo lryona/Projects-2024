@@ -2,7 +2,7 @@
 
 Originally, this was made in C++ program during our second term as a freshman. I decided to implement this in Python instead.
 
-This is not exactly polished as it solely inputs the balance of the user in terms of their withdraw/deposits, as well as check their balance.
+This is not exactly polished as it solely inputs the balance of the user in terms of checking its balance and being able to withdraw/deposits.
 
 As seen from the two files, my platform to complete this very mini project was Jupyter, but for a much efficient access of using my code in Github, I converted it to Python.
 
