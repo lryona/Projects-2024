@@ -4,7 +4,6 @@ def check_balance():
     print("Your current balance is: PHP " + str(balance))
 
 def withdraw(amount):
-    global balance
     if amount > balance:
         print("Insufficient funds.")
     else:
@@ -12,7 +11,6 @@ def withdraw(amount):
         print("Withdraw successful. Your current balance is: PHP " + str(balance))
 
 def deposit(amount):
-    global balance
     balance += amount
     print("Deposit successful. Your current balance is: PHP " + str(balance))
 
